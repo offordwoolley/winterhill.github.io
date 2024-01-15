@@ -212,6 +212,9 @@
   flex-direction: column;
   padding: 0; /* Add this line to remove padding */
 }
+.home-links1 a {
+  padding: 0;
+}
 .home-link3 {
   font-size: 20px;
   text-decoration: none;
